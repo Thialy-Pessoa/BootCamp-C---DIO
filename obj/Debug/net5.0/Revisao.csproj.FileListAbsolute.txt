@@ -1,0 +1,16 @@
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\Users\thyag\OneDrive\Área de Trabalho\DigitalInnovationOne\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
